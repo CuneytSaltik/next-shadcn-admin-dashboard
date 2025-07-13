@@ -1,0 +1,54 @@
+{
+  "node": {
+    "402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2": {
+      "workers": {
+        "app/(external)/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/default/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(external)/page": "rsc",
+        "app/(main)/dashboard/default/page": "rsc"
+      }
+    },
+    "701416fa0c0f37f14affc8ede79f7d2ea94087244e": {
+      "workers": {
+        "app/(external)/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/default/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(external)/page": "rsc",
+        "app/(main)/dashboard/default/page": "rsc"
+      }
+    },
+    "70b9ed22f6aa458fb0ebac9d6ffeb560816c631586": {
+      "workers": {
+        "app/(external)/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(main)/dashboard/default/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fapp%2Fsrc%2Fserver%2Fserver-actions.ts%22%2C%5B%7B%22id%22%3A%22402c01a024df1d22f92f1dfe1198bb56a38f0ea9a2%22%2C%22exportedName%22%3A%22getValueFromCookie%22%7D%2C%7B%22id%22%3A%22701416fa0c0f37f14affc8ede79f7d2ea94087244e%22%2C%22exportedName%22%3A%22getPreference%22%7D%2C%7B%22id%22%3A%2270b9ed22f6aa458fb0ebac9d6ffeb560816c631586%22%2C%22exportedName%22%3A%22setValueToCookie%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(external)/page": "rsc",
+        "app/(main)/dashboard/default/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "T9BpFc1QzuRA1wFcHTpa2MbTgGvtZEwbWUvUOc4uJRU="
+}
