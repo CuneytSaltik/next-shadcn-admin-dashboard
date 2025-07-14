@@ -130,6 +130,12 @@ export const sidebarItems: NavGroup[] = [
        // comingSoon: true,
       },
       {
+        title: "HR",
+        url: "/dashboard/hr",  // Bu URL'yi backend ve frontend'e göre ayarla
+        icon: Forklift,        // Uygunsa farklı bir ikon da seçebilirsin
+        comingSoon: false,
+      },
+      {
         title: "Roles",
         url: "/roles",
         icon: Lock,
