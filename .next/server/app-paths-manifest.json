@@ -1,1 +1,3 @@
-{}
+{
+  "/(main)/dashboard/default/page": "app/(main)/dashboard/default/page.js"
+}
